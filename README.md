@@ -1,13 +1,17 @@
-# SQL Business Analysis
+# Sales Analytics Dashboard
 
 ## Overview
-Performed business data exploration using SQL queries.
+Performed end-to-end sales data analysis using Python and Power BI on 10,000+ records.
 
-## Analysis Performed
-- Top revenue products
-- Monthly sales growth
-- Region-wise profitability
-- Customer lifetime value calculation
+## Tools Used
+- Python (Pandas, Matplotlib, Seaborn)
+- Power BI
+- Excel
 
-## Tools
-MySQL / PostgreSQL
+## Key Insights
+- Identified top revenue generating products
+- Analyzed monthly sales growth trends
+- Evaluated region-wise performance
+
+## Outcome
+Developed interactive dashboard for business decision-making.
