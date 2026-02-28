@@ -1,6 +1,6 @@
 # 📊 Sales Analytics Dashboard
 
-## 🔍 Confusion Matrix
+## 🔍 Confusion
 
 ![Monthly_Revenue_Trend](/monthly_revenue_trend.png)
 
