@@ -64,7 +64,7 @@ The goal was to simulate a real-world data analytics workflow:
 
 ## 📊 Monthly Revenue Trend
 
-![Monthly Revenue](monthly_revenue_trend.png)
+![Monthly Revenue](images/monthly_revenue_trend.png)
 
 ---
 
